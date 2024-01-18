@@ -28,8 +28,8 @@ situations.
 
 ### Repository Structure
 Each directory in this repository represents an independent POC project for a specific design pattern. Within each 
-directory, you will find a detailed README explaining the purpose of the pattern, execution instructions, and usage 
-examples.
+directory, you will find a detailed README explaining the purpose of the pattern and usage 
+example.
 
 
 
