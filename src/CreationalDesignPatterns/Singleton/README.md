@@ -1,4 +1,4 @@
-# Singleton Method
+# Singleton
 The Singleton Pattern is a creational design pattern that ensures a class has only one instance and provides a global 
 point of access to that instance. This pattern is particularly useful when there's a need for a single point of control 
 or coordination, such as managing a configuration, logging, or a shared resource.
@@ -8,7 +8,7 @@ from anywhere in the application and a global point of control or coordination i
 tool for managing shared resources, enforcing single points of control, and providing a global instance accessible 
 throughout the application.
 
-## DatabaseSingleton Implementation
+## Database Singleton Implementation
 In the provided Java project, the `DatabaseSingleton` class exemplifies the Singleton Pattern. Here's a summary of the 
 implementation:
 - Static Instance: The class contains a static instance variable (instance) to hold the single instance of the class.
